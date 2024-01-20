@@ -1,0 +1,105 @@
+
+img{
+    position: relative;
+    left: 90%;
+    top: 10px;
+}
+.a1{
+   
+   display: flex;
+   justify-content: center;
+   align-items:center;
+   gap: 5%;
+}
+a{
+    text-decoration: none;
+    color: black;
+height: 5%;
+
+}
+nav{
+    box-shadow: 10px 5px 5px rgb(211, 206, 206);
+   
+}
+
+
+#bu1{
+   color:darkturquoise;
+   background-color: white;
+   border: solid darkturquoise;
+   border-radius: 5px;
+   height:30px;
+   width: 100px;
+  
+}
+#bu2{
+color: white;
+background-color: darkturquoise;
+border: solid darkturquoise;
+border-radius: 5px;
+height:30px;
+width: 100px;
+
+
+}
+#Card1{
+ 
+   width: 30%;
+margin: 10px;
+padding: 20px;
+background-color: aqua;
+border-radius: 10px;
+
+}
+
+#card1 h2{
+    font-size: 24px;
+    text-align: center;
+}
+#card1 p{
+    font-size: 18px
+}
+
+
+#Card2{
+ 
+    width: 30%;
+ margin:10px;
+ padding: 20px;
+ background-color:deeppink;
+ border-radius: 10px;
+ 
+ }
+ 
+ #card2 h2{
+     font-size: 24px;
+     text-align: center;
+ }
+ #card2 p{
+     font-size: 18px
+ }
+ 
+ 
+#Card3{
+ 
+    width: 30%;
+ margin: 10px;
+ padding: 10px;
+ background-color:red;
+ border-radius: 10px;
+ 
+ }
+ 
+ #card3 h2{
+     font-size: 24px;
+     text-align: center;
+ }
+ #card3 p{
+     font-size: 18px
+ }
+ 
+.fot{
+    background-color:skyblue;
+ height: 100px;
+ 
+}
